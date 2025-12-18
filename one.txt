@@ -1,1 +1,2 @@
 first line of one file
+added a new line to the file
